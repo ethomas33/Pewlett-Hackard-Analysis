@@ -9,7 +9,7 @@ This analysis is to help Pewlett Hackard begin to better understand the demograp
 ![retiring_titles](https://github.com/ethomas33/Pewlett-Hackard-Analysis/blob/eba21d7d61e3eaa7be606c07cf5bf74c534c4b88/Resources/retiring_titles.png)
 - Pewlett Hackard should put energy into encouraging use of their mentorship program to encourage the 1,549 employees currently eligible to help upskill those employees to fill some of the slots that will be vacated by those employees retiring.
 - Pewlett Hackard has robust information on its employees I suggest that they investigate this further to help them identify more pattern on how and where gaps will need to be filled. 
-![ERD]()
+![ERD](https://github.com/ethomas33/Pewlett-Hackard-Analysis/blob/fe3d9e85db8903ebbeeee7ce9df6655e60b5c853/Resources/EmployeeDB.png)
 
 Provide a bulleted list with four major points from the two analysis deliverables. Use images as support where needed.
 Summary: Provide high-level responses to the following questions, then provide two additional queries or tables that may provide more insight into the upcoming "silver tsunami."
